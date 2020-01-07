@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">eDoc</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android developer</string>
+    <string name="nav_header_subtitle">devs@ushannlabs.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Epreuves corriges</string>
+
+    <string name="menu_home">Accueil</string>
+    <string name="menu_gallery">Bac officiel</string>
+    <string name="menu_slideshow">Bac blanc</string>
+    <string name="menu_tools">Devoirs</string>
+    <string name="menu_share">Orientation</string>
+    <string name="menu_send">Apropos</string>
+</resources>
